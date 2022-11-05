@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **named.adulis@gmail.com**
 
-- ⚡ Fun fact **I am Eritrean and I speak 4 languages**
+- ⚡ Fun fact **I am Eritrean 🇪🇷 and I speak 4 languages**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adulisl" alt="adulisl" /></a> </p>
 
