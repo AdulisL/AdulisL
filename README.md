@@ -1,7 +1,7 @@
-![MasterHead](https://www.cambridgeconsultants.com/sites/default/files/uploaded-images/Hero_ccims_42750012350_1.jpg)
+<p align="center"><img alt="header" width="800" src="https://www.cambridgeconsultants.com/sites/default/files/uploaded-images/Hero_ccims_42750012350_1.jpg"><p/>
 <h1 align="center">👋🏿 there! The name is Meron 👋🏿</h1>
 <h3 align="center">Embedded Systems, Computer Engineer</h3>
-<img align="right" alt="Binaries" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Binaries" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adulisl&label=Profile%20views&color=0e75b6&style=flat" alt="adulisl" /> </p>
 
 - 🔭 I’m currently working on **Computer Graphics**
